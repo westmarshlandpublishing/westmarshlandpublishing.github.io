@@ -1,9 +1,8 @@
 ---
 published: false
----
----
 layout: post
 title: Welcome to West Marshland Publishing
+
 ---
 
 ## Welcome to West Marshland Publishing
